@@ -12,28 +12,98 @@
             "Year": 2021,
             "Loc": "San Francisco, USA",
             "Desc": "Constitutional AI • Claude family",
-            "Money": "$37.7B+ • Val ~$183–350B talks"
+            "Money": "$37.7B+ • Val ~$183–350B"
         },
         {
             "Name": "xAI",
             "Year": 2023,
             "Loc": "Bay Area, USA",
             "Desc": "Grok family • maximum truth-seeking AI",
-            "Money": "~$22–40B total • Val ~$75–200B+"
+            "Money": "~$22–40B total • Val ~$80–200B"
         },
         {
             "Name": "Mistral AI",
             "Year": 2023,
             "Loc": "Paris, France",
             "Desc": "Efficient open & enterprise LLMs",
-            "Money": "~$1.6–2B • Val ~$13–16B"
+            "Money": "~$3B • Val ~$14–16B"
         },
         {
             "Name": "Safe Superintelligence (SSI)",
             "Year": 2024,
             "Loc": "Palo Alto, USA",
             "Desc": "Ilya Sutskever's safe superintelligence lab",
-            "Money": "~$2–5B • Val ~$30–50B"
+            "Money": "~$2–6B • Val ~$30–50B"
+        },
+        {
+            "Name": "Thinking Machines Lab",
+            "Year": 2025,
+            "Loc": "San Francisco, USA",
+            "Desc": "Mira Murati's venture into next-gen AI",
+            "Money": "$2B Seed • Val ~$12B"
+        },
+        {
+            "Name": "Cohere",
+            "Year": 2019,
+            "Loc": "Toronto, Canada",
+            "Desc": "Enterprise-focused LLMs and embeddings",
+            "Money": "$970M • Val ~$5.5B"
+        },
+        {
+            "Name": "DeepL",
+            "Year": 2017,
+            "Loc": "Cologne, Germany",
+            "Desc": "World's most accurate machine translation",
+            "Money": "$400M • Val ~$2B"
+        },
+        {
+            "Name": "Stability AI",
+            "Year": 2019,
+            "Loc": "London, UK",
+            "Desc": "Stable Diffusion and open-core generative AI",
+            "Money": "$230M • Val ~$1B"
+        },
+        {
+            "Name": "World Labs",
+            "Year": 2024,
+            "Loc": "San Francisco, USA",
+            "Desc": "Fei-Fei Li's spatial intelligence startup",
+            "Money": "$291M • Val ~$1B"
+        },
+        {
+            "Name": "01.AI",
+            "Year": 2023,
+            "Loc": "Beijing, China",
+            "Desc": "Kai-Fu Lee's Yi series foundation models",
+            "Money": "$200M • Val ~$1B"
+        },
+        {
+            "Name": "AI21 Labs",
+            "Year": 2017,
+            "Loc": "Tel Aviv, Israel",
+            "Desc": "Jurassic series and enterprise AI solutions",
+            "Money": "$335M • Val ~$1.4B"
+        },
+        {
+            "Name": "Hugging Face",
+            "Year": 2016,
+            "Loc": "New York, USA",
+            "Desc": "The central hub for open-source AI models",
+            "Money": "$395M • Val ~$4.5B"
+        },
+        {
+            "Name": "G42",
+            "Year": 2018,
+            "Loc": "Abu Dhabi, UAE",
+            "Desc": "National-scale AI infrastructure and models",
+            "Money": "$1.5B (Microsoft) • Val ~$10B+"
+        },
+        {
+            "Name": "Poolside",
+            "Year": 2023,
+            "Loc": "Paris, France",
+            "Desc": "Codegen optimized foundation models",
+            "Money": "$626M • Val ~$3B"
         }
     ],
     "Generative Tools & Applications": [
@@ -42,86 +112,247 @@
             "Year": 2022,
             "Loc": "San Francisco, USA",
             "Desc": "AI-powered real-time answer engine",
-            "Money": "~$1.9–2.5B • Val ~$18–24B"
+            "Money": "~$2B • Val ~$9–24B"
         },
         {
             "Name": "Cursor (Anysphere)",
             "Year": 2022,
             "Loc": "San Francisco, USA",
             "Desc": "AI-first code editor",
-            "Money": "~$1.2–2B • Val ~$4–29B (explosive growth)"
+            "Money": "~$2.3B • Val ~$29B+"
         },
         {
             "Name": "Harvey",
             "Year": 2022,
             "Loc": "San Francisco, USA",
             "Desc": "AI for legal professionals",
-            "Money": "~$300–800M • Val ~$3–8B"
+            "Money": "$800M • Val ~$3–8B"
         },
         {
             "Name": "ElevenLabs",
             "Year": 2022,
-            "Loc": "Warsaw / New York",
+            "Loc": "New York, USA",
             "Desc": "Ultra-realistic AI voice synthesis",
-            "Money": "~$280–500M • Val ~$3–6.6B"
+            "Money": "$500M • Val ~$3–6.6B"
         },
         {
             "Name": "Synthesia",
             "Year": 2017,
             "Loc": "London, UK",
             "Desc": "AI avatars & video generation",
-            "Money": "~$210–400M • Val ~$1.2–2.5B"
+            "Money": "$400M • Val ~$1.2–2.5B"
         },
         {
             "Name": "Runway",
             "Year": 2018,
             "Loc": "New York, USA",
             "Desc": "Gen-3 Alpha cinematic video",
-            "Money": "~$340–500M • Val ~$1.5–3B"
+            "Money": "$500M • Val ~$1.5–3B"
         },
         {
             "Name": "Suno",
             "Year": 2023,
             "Loc": "Cambridge, USA",
             "Desc": "AI music generation platform",
-            "Money": "~$250–400M • Val ~$2–3B"
+            "Money": "$400M • Val ~$2–3B"
         },
         {
             "Name": "Gamma",
             "Year": 2022,
             "Loc": "San Francisco, USA",
             "Desc": "AI-generated presentations & websites",
-            "Money": "~$100–200M • Val ~$2.1B"
+            "Money": "$200M • Val ~$2.1B"
+        },
+        {
+            "Name": "Midjourney",
+            "Year": 2021,
+            "Loc": "San Francisco, USA",
+            "Desc": "High-fidelity AI image generation",
+            "Money": "Self-funded • Val ~$10B+ est."
+        },
+        {
+            "Name": "Pika",
+            "Year": 2023,
+            "Loc": "Palo Alto, USA",
+            "Desc": "Idea-to-video creative platform",
+            "Money": "$135M • Val ~$470M"
+        },
+        {
+            "Name": "Descript",
+            "Year": 2017,
+            "Loc": "San Francisco, USA",
+            "Desc": "AI-powered video and audio editor",
+            "Money": "$100M • Val ~$550M"
+        },
+        {
+            "Name": " Jasper",
+            "Year": 2021,
+            "Loc": "Austin, USA",
+            "Desc": "AI marketing co-pilot for teams",
+            "Money": "$125M • Val ~$1.5B"
+        },
+        {
+            "Name": "Copy.ai",
+            "Year": 2020,
+            "Loc": "Memphis, USA",
+            "Desc": "AI content generation for sales & marketing",
+            "Money": "$14M • Val ~$100M"
+        },
+        {
+            "Name": "Canva Magic Studio",
+            "Year": 2012,
+            "Loc": "Sydney, Australia",
+            "Desc": "Full-stack AI creative design suite",
+            "Money": "N/A (Enterprise) • Val ~$26B"
+        },
+        {
+            "Name": "Grammarly",
+            "Year": 2009,
+            "Loc": "San Francisco, USA",
+            "Desc": "AI writing assistance and correction",
+            "Money": "$400M • Val ~$13B"
+        },
+        {
+            "Name": "Otter.ai",
+            "Year": 2016,
+            "Loc": "Mountain View, USA",
+            "Desc": "AI transcription and meeting summaries",
+            "Money": "$63M • Val ~$1B"
+        },
+        {
+            "Name": "Speak",
+            "Year": 2016,
+            "Loc": "San Francisco, USA",
+            "Desc": "AI-powered language tutor",
+            "Money": "$100M • Val ~$1B"
+        },
+        {
+            "Name": "HeyGen",
+            "Year": 2020,
+            "Loc": "Los Angeles, USA",
+            "Desc": "AI video generation and translation",
+            "Money": "$60M • Val ~$440M"
+        },
+        {
+            "Name": "Ideogram",
+            "Year": 2023,
+            "Loc": "Toronto, Canada",
+            "Desc": "AI image generation with typography focus",
+            "Money": "$96M • Val ~$500M"
+        },
+        {
+            "Name": "Luma AI",
+            "Year": 2021,
+            "Loc": "Palo Alto, USA",
+            "Desc": "3D AI and cinematic video (Dream Machine)",
+            "Money": "$70M • Val ~$300M"
         }
     ],
-    "AI Infrastructure / Hardware": [
+    "AI Infrastructure / Hardware / Cloud": [
         {
             "Name": "Groq",
             "Year": 2016,
             "Loc": "Mountain View, USA",
             "Desc": "LPUs – ultra-fast inference",
-            "Money": "~$1.5–2.5B • Val ~$6–9B"
+            "Money": "$750M (2025) • Val ~$6–9B"
         },
         {
             "Name": "Cerebras Systems",
             "Year": 2016,
             "Loc": "Sunnyvale, USA",
-            "Desc": "Wafer-scale AI training",
-            "Money": "~$720M–1B • Val ~$4–6B"
+            "Desc": "Wafer-scale AI training hardware",
+            "Money": "$1.1B (2025) • Val ~$6B"
         },
         {
             "Name": "SambaNova Systems",
             "Year": 2017,
             "Loc": "Palo Alto, USA",
-            "Desc": "Full-stack enterprise AI",
-            "Money": "~$1.1–1.5B • Val ~$5–7B"
+            "Desc": "Full-stack enterprise AI platforms",
+            "Money": "$1.1B • Val ~$5B"
         },
         {
-            "Name": "Unconventional AI",
-            "Year": 2025,
-            "Loc": "USA",
-            "Desc": "Energy-efficient brain-inspired AI chips",
-            "Money": "~$475M seed • Val ~$4.5B"
+            "Name": "CoreWeave",
+            "Year": 2017,
+            "Loc": "Roseland, USA",
+            "Desc": "Specialized GPU cloud for AI",
+            "Money": "$1.1B (2024) • Val ~$19B"
+        },
+        {
+            "Name": "Lambda",
+            "Year": 2012,
+            "Loc": "San Jose, USA",
+            "Desc": "Deep learning infrastructure and cloud",
+            "Money": "$480M (2025) • Val ~$2B"
+        },
+        {
+            "Name": "Lightmatter",
+            "Year": 2017,
+            "Loc": "Boston, USA",
+            "Desc": "Photonic computing for AI",
+            "Money": "$400M (2024) • Val ~$4.4B"
+        },
+        {
+            "Name": "Pinecone",
+            "Year": 2019,
+            "Loc": "New York, USA",
+            "Desc": "Vector database for AI memory",
+            "Money": "$138M • Val ~$750M"
+        },
+        {
+            "Name": "Weaviate",
+            "Year": 2019,
+            "Loc": "Amsterdam, Netherlands",
+            "Desc": "Open-source vector database",
+            "Money": "$66M • Val ~$200M"
+        },
+        {
+            "Name": "Qdrant",
+            "Year": 2021,
+            "Loc": "Berlin, Germany",
+            "Desc": "Vector similarity search engine",
+            "Money": "$28M • Val ~$100M"
+        },
+        {
+            "Name": "Together AI",
+            "Year": 2022,
+            "Loc": "San Francisco, USA",
+            "Desc": "Cloud platform for open-source AI",
+            "Money": "$222M • Val ~$1.2B"
+        },
+        {
+            "Name": "Weights & Biases",
+            "Year": 2017,
+            "Loc": "San Francisco, USA",
+            "Desc": "AI developer platform for experiment tracking",
+            "Money": "$250M • Val ~$1B"
+        },
+        {
+            "Name": "LangChain",
+            "Year": 2022,
+            "Loc": "San Francisco, USA",
+            "Desc": "Framework for building LLM applications",
+            "Money": "$35M • Val ~$200M"
+        },
+        {
+            "Name": "LlamaIndex",
+            "Year": 2022,
+            "Loc": "San Francisco, USA",
+            "Desc": "Data framework for LLM context",
+            "Money": "$8.5M Seed • Val ~$40M"
+        },
+        {
+            "Name": "Modular",
+            "Year": 2022,
+            "Loc": "Palo Alto, USA",
+            "Desc": "Next-gen AI software (Mojo lang)",
+            "Money": "$130M • Val ~$600M"
+        },
+        {
+            "Name": "Anyscale",
+            "Year": 2019,
+            "Loc": "San Francisco, USA",
+            "Desc": "Scalable ML platform (Ray)",
+            "Money": "$300M+ • Val ~$3B"
         }
     ],
     "Enterprise & Productivity AI": [
@@ -130,249 +361,361 @@
             "Year": 2019,
             "Loc": "Palo Alto, USA",
             "Desc": "Enterprise knowledge search",
-            "Money": "~$520–800M • Val ~$5–7B"
+            "Money": "$800M • Val ~$7B"
         },
         {
             "Name": "Sierra",
             "Year": 2023,
             "Loc": "San Francisco, USA",
-            "Desc": "Bret Taylor & Clay Bavor – customer AI agents",
-            "Money": "~$175–400M • Val ~$4–5B"
+            "Desc": "Conversational AI for enterprise",
+            "Money": "$350M (2025) • Val ~$10B+"
         },
         {
             "Name": "Databricks",
             "Year": 2013,
             "Loc": "San Francisco, USA",
             "Desc": "Data + AI lakehouse platform",
-            "Money": "~$4.5–8B • Val ~$43–134B"
+            "Money": "$10B (2024) • Val ~$62B"
         },
         {
             "Name": "Scale AI",
             "Year": 2016,
             "Loc": "San Francisco, USA",
-            "Desc": "Data labeling & frontier training data",
-            "Money": "~$1.6–2B • Val ~$13–15B"
+            "Desc": "Leading data labeling for AI",
+            "Money": "$1B+ • Val ~$14.3B"
         },
         {
-            "Name": "Microsoft Power Automate",
+            "Name": "Writer",
+            "Year": 2020,
+            "Loc": "San Francisco, USA",
+            "Desc": "Generative AI for large enterprises",
+            "Money": "$326M • Val ~$1B+"
+        },
+        {
+            "Name": "Moveworks",
             "Year": 2016,
-            "Loc": "Redmond, USA",
-            "Desc": "Workflow automation with AI agents",
-            "Money": "N/A (Enterprise)"
+            "Loc": "Mountain View, USA",
+            "Desc": "AI for IT and HR automation",
+            "Money": "$315M • Val ~$2.1B"
+        },
+        {
+            "Name": "EvenUp",
+            "Year": 2019,
+            "Loc": "San Francisco, USA",
+            "Desc": "AI-powered legal tech for claims",
+            "Money": "$135M (2024) • Val ~$1B"
+        },
+        {
+            "Name": "Cognition",
+            "Year": 2023,
+            "Loc": "San Francisco, USA",
+            "Desc": "AI software engineer (Devin)",
+            "Money": "$175M • Val ~$10.2B"
+        },
+        {
+            "Name": "Mercor",
+            "Year": 2023,
+            "Loc": "San Francisco, USA",
+            "Desc": "AI-powered hiring platform",
+            "Money": "$32M Seed • Val ~$10B"
+        },
+        {
+            "Name": "Ironclad",
+            "Year": 2014,
+            "Loc": "San Francisco, USA",
+            "Desc": "AI-driven contract management",
+            "Money": "$330M • Val ~$3.2B"
+        },
+        {
+            "Name": "Notion AI",
+            "Year": 2013,
+            "Loc": "San Francisco, USA",
+            "Desc": "AI workspace and knowledge base",
+            "Money": "$300M+ • Val ~$10B+"
+        },
+        {
+            "Name": "Observe.ai",
+            "Year": 2017,
+            "Loc": "San Francisco, USA",
+            "Desc": "Contact center AI intelligence",
+            "Money": "$213M • Val ~$500M"
+        },
+        {
+            "Name": "Cresta",
+            "Year": 2017,
+            "Loc": "Palo Alto, USA",
+            "Desc": "AI for real-time sales and service coaching",
+            "Money": "$150M • Val ~$1.6B"
+        },
+        {
+            "Name": "Abnormal Security",
+            "Year": 2018,
+            "Loc": "San Francisco, USA",
+            "Desc": "AI-driven email security platform",
+            "Money": "$284M • Val ~$4B"
+        },
+        {
+            "Name": "Darktrace",
+            "Year": 2013,
+            "Loc": "Cambridge, UK",
+            "Desc": "Cybersecurity AI for threat detection",
+            "Money": "$230M • Val ~$5.3B"
+        },
+        {
+            "Name": "SentinelOne",
+            "Year": 2013,
+            "Loc": "Mountain View, USA",
+            "Desc": "AI-powered endpoint security",
+            "Money": "$430M+ • Val ~$8.9B"
+        },
+        {
+            "Name": "Gong",
+            "Year": 2015,
+            "Loc": "San Francisco, USA",
+            "Desc": "Revenue intelligence through AI",
+            "Money": "$584M • Val ~$7.2B"
         },
         {
             "Name": "n8n",
             "Year": 2019,
             "Loc": "Berlin, Germany",
             "Desc": "Open-source workflow automation",
-            "Money": "~$30M • Val ~$300M"
+            "Money": "$30M • Val ~$300M"
         },
         {
             "Name": "Vellum AI",
             "Year": 2022,
             "Loc": "San Francisco, USA",
             "Desc": "Unified AI automation for enterprises",
-            "Money": "~$50M • Val ~$500M"
+            "Money": "$12M Seed • Val ~$500M est."
         },
         {
             "Name": "Modal Labs",
             "Year": 2021,
-            "Loc": "San Francisco, USA",
-            "Desc": "Serverless AI infrastructure for automation",
-            "Money": "~$68M • Val ~$280M"
-        },
-        {
-            "Name": "Anyscale",
-            "Year": 2019,
-            "Loc": "San Francisco, USA",
-            "Desc": "Scalable ML for enterprise automation",
-            "Money": "~$300M • Val ~$3B"
-        },
-        {
-            "Name": "Chainguard",
-            "Year": 2021,
-            "Loc": "Kirkland, USA",
-            "Desc": "AI for cloud security automation",
-            "Money": "~$100M • Val ~$1B"
-        },
-        {
-            "Name": "Moveworks",
-            "Year": 2016,
-            "Loc": "Mountain View, USA",
-            "Desc": "AI for IT service automation",
-            "Money": "~$315M • Val ~$2B"
-        },
-        {
-            "Name": "AppZen",
-            "Year": 2012,
-            "Loc": "San Jose, USA",
-            "Desc": "AI auditing for finance teams",
-            "Money": "~$280M • Val ~$1B"
-        },
-        {
-            "Name": "H2O.ai",
-            "Year": 2012,
-            "Loc": "Mountain View, USA",
-            "Desc": "Open-source ML platform",
-            "Money": "~$250M • Val ~$2B"
-        },
-        {
-            "Name": "Kanerika",
-            "Year": 2015,
-            "Loc": "Hyderabad, India",
-            "Desc": "Autonomous AI agents for data automation",
-            "Money": "~$50M • Val ~$500M"
-        },
-        {
-            "Name": "Wildnet Edge",
-            "Year": 2006,
-            "Loc": "Noida, India",
-            "Desc": "Enterprise AI and NLP automation",
-            "Money": "N/A"
-        },
-        {
-            "Name": "Master of Code Global",
-            "Year": 2004,
-            "Loc": "Redwood City, USA",
-            "Desc": "Conversational AI automation",
-            "Money": "N/A"
-        },
-        {
-            "Name": "Vention",
-            "Year": 2002,
             "Loc": "New York, USA",
-            "Desc": "Custom automation software",
-            "Money": "N/A"
+            "Desc": "Serverless AI cloud infrastructure",
+            "Money": "$68M • Val ~$280M"
         }
     ],
-    "Robotics & Autonomous Vehicles": [
+    "Robotics & Autonomous Tech": [
+        {
+            "Name": "Waymo",
+            "Year": 2009,
+            "Loc": "Phoenix / SF, USA",
+            "Desc": "Leader in fully autonomous ride-hailing",
+            "Money": "$5.6B (2024) • Val ~$45B"
+        },
         {
             "Name": "Figure AI",
             "Year": 2022,
             "Loc": "Sunnyvale, USA",
-            "Desc": "Humanoid robots with AI for general tasks",
-            "Money": "~$1.75B • Val ~$39B"
-        },
-        {
-            "Name": "Skild AI",
-            "Year": 2023,
-            "Loc": "Pittsburgh, USA",
-            "Desc": "General-purpose robot learning software",
-            "Money": "~$414M • Val ~$1.5B"
+            "Desc": "Humanoid robots for general tasks",
+            "Money": "$1.75B • Val ~$45B"
         },
         {
             "Name": "Physical Intelligence",
             "Year": 2024,
             "Loc": "San Francisco, USA",
-            "Desc": "Adaptive robotic intelligence",
-            "Money": "~$1.07B • Val ~$5.6B"
+            "Desc": "Adaptive robotic neural networks",
+            "Money": "$400M+ • Val ~$2.4B"
+        },
+        {
+            "Name": "Anduril Industries",
+            "Year": 2017,
+            "Loc": "Costa Mesa, USA",
+            "Desc": "AI-powered defense and autonomy",
+            "Money": "$1.5B (2024) • Val ~$14B"
+        },
+        {
+            "Name": "Skild AI",
+            "Year": 2023,
+            "Loc": "Pittsburgh, USA",
+            "Desc": "Foundation models for robotics",
+            "Money": "$414M • Val ~$1.5B"
         },
         {
             "Name": "Boston Dynamics",
             "Year": 1992,
             "Loc": "Waltham, USA",
-            "Desc": "Dynamic mobility robots (Spot, Atlas)",
-            "Money": "N/A (Hyundai-owned) • Val ~$10B est."
-        },
-        {
-            "Name": "Unitree Robotics",
-            "Year": 2017,
-            "Loc": "Hangzhou, China",
-            "Desc": "Affordable humanoids and quadrupeds",
-            "Money": "~$200M • Val ~$2B"
-        },
-        {
-            "Name": "Agility Robotics",
-            "Year": 2015,
-            "Loc": "Albany, USA",
-            "Desc": "Bipedal robots for logistics",
-            "Money": "~$300M • Val ~$3B"
-        },
-        {
-            "Name": "1X Technologies",
-            "Year": 2014,
-            "Loc": "Moss, Norway",
-            "Desc": "Humanoid robots for household tasks",
-            "Money": "~$200M • Val ~$2B"
+            "Desc": "Expert mobility robots (Spot, Atlas)",
+            "Money": "Integrated • Val ~$10B est."
         },
         {
             "Name": "Tesla Optimus",
             "Year": 2021,
             "Loc": "Austin, USA",
-            "Desc": "General-purpose humanoid robot",
-            "Money": "N/A (Tesla division) • Val integrated"
-        },
-        {
-            "Name": "Shield AI",
-            "Year": 2015,
-            "Loc": "San Diego, USA",
-            "Desc": "AI for autonomous drones and aircraft",
-            "Money": "~$500M • Val ~$2.5B"
+            "Desc": "Mass-produced general humanoid robot",
+            "Money": "Integrated • Val (Part of Tesla)"
         },
         {
             "Name": "Zipline",
             "Year": 2014,
             "Loc": "San Francisco, USA",
-            "Desc": "Autonomous delivery drones",
-            "Money": "~$500M • Val ~$4B"
+            "Desc": "Autonomous logistics and delivery",
+            "Money": "$500M+ • Val ~$4B"
+        },
+        {
+            "Name": "Shield AI",
+            "Year": 2015,
+            "Loc": "San Diego, USA",
+            "Desc": "AI pilot for military aircraft",
+            "Money": "$500M+ • Val ~$2.8B"
+        },
+        {
+            "Name": "Unitree Robotics",
+            "Year": 2017,
+            "Loc": "Hangzhou, China",
+            "Desc": "Consumer and industrial humanoids",
+            "Money": "$200M+ • Val ~$2B"
+        },
+        {
+            "Name": "Agility Robotics",
+            "Year": 2015,
+            "Loc": "Albany, USA",
+            "Desc": "Humanoid robots for warehousing (Digit)",
+            "Money": "$300M+ • Val ~$3B"
+        },
+        {
+            "Name": "1X Technologies",
+            "Year": 2014,
+            "Loc": "Moss, Norway",
+            "Desc": "Safe human-centric robots",
+            "Money": "$125M+ • Val ~$2B"
         },
         {
             "Name": "Kodiak Robotics",
             "Year": 2018,
             "Loc": "Mountain View, USA",
-            "Desc": "Self-driving trucks",
-            "Money": "~$200M • Val ~$1B"
+            "Desc": "Self-driving long haul trucks",
+            "Money": "$165M • Val ~$1B"
         },
         {
-            "Name": "Auterion",
+            "Name": "Aurora Innovation",
             "Year": 2017,
-            "Loc": "Zurich, Switzerland",
-            "Desc": "Open-source drone autonomy software",
-            "Money": "~$50M • Val ~$500M"
+            "Loc": "Pittsburgh, USA",
+            "Desc": "Self-driving system (Aurora Driver)",
+            "Money": "$800M+ • Val ~$10B+ (Public)"
+        },
+        {
+            "Name": "Serve Robotics",
+            "Year": 2021,
+            "Loc": "San Francisco, USA",
+            "Desc": "Sidewalk delivery robots",
+            "Money": "$56M • Val ~$400M"
+        },
+        {
+            "Name": "Nimble Robotics",
+            "Year": 2017,
+            "Loc": "San Francisco, USA",
+            "Desc": "AI robots for fulfillment centers",
+            "Money": "$106M (2024) • Val ~$1.1B"
+        },
+        {
+            "Name": "Gatik",
+            "Year": 2017,
+            "Loc": "Mountain View, USA",
+            "Desc": "Autonomous middle-mile logistics",
+            "Money": "$120M • Val ~$700M"
         }
     ],
-    "Biotech & Healthcare AI": [
-        {
-            "Name": "Aidoc",
-            "Year": 2016,
-            "Loc": "Tel Aviv, Israel",
-            "Desc": "AI for medical imaging analysis",
-            "Money": "~$200M • Val ~$1B"
-        },
-        {
-            "Name": "PathAI",
-            "Year": 2016,
-            "Loc": "Boston, USA",
-            "Desc": "Pathology diagnostics with AI",
-            "Money": "~$300M • Val ~$1.5B"
-        },
-        {
-            "Name": "Viz.ai",
-            "Year": 2016,
-            "Loc": "San Francisco, USA",
-            "Desc": "AI for stroke detection and care coordination",
-            "Money": "~$250M • Val ~$1.2B"
-        },
+    "Biotech & Healthcare / Specialized AI": [
         {
             "Name": "Recursion Pharmaceuticals",
             "Year": 2013,
             "Loc": "Salt Lake City, USA",
-            "Desc": "AI-driven drug discovery",
-            "Money": "~$500M • Val ~$3B"
-        },
-        {
-            "Name": "Insilico Medicine",
-            "Year": 2014,
-            "Loc": "Hong Kong",
-            "Desc": "AI for aging and disease research",
-            "Money": "~$400M • Val ~$2B"
+            "Desc": "AI-first drug discovery and biology",
+            "Money": "$1B+ • Val ~$3.5B (Public)"
         },
         {
             "Name": "Abridge",
             "Year": 2018,
             "Loc": "Pittsburgh, USA",
-            "Desc": "AI medical conversation summarization",
-            "Money": "~$316M • Val ~$2.5B"
+            "Desc": "AI for clinical conversations",
+            "Money": "$316M • Val ~$2.5B"
+        },
+        {
+            "Name": "Insilico Medicine",
+            "Year": 2014,
+            "Loc": "Hong Kong",
+            "Desc": "AI for drug R&D and aging",
+            "Money": "$400M+ • Val ~$2B"
+        },
+        {
+            "Name": "Tempus",
+            "Year": 2015,
+            "Loc": "Chicago, USA",
+            "Desc": "AI-powered precision medicine",
+            "Money": "$600M+ • Val ~$8.1B"
+        },
+        {
+            "Name": "PathAI",
+            "Year": 2016,
+            "Loc": "Boston, USA",
+            "Desc": "AI for pathology diagnostics",
+            "Money": "$300M • Val ~$1.5B"
+        },
+        {
+            "Name": "Viz.ai",
+            "Year": 2016,
+            "Loc": "San Francisco, USA",
+            "Desc": "AI for early disease detection",
+            "Money": "$250M • Val ~$1.2B"
+        },
+        {
+            "Name": "OpenEvidence",
+            "Year": 2021,
+            "Loc": "Cambridge, USA",
+            "Desc": "AI search platform for medical professionals",
+            "Money": "$27M Seed • Val ~$1B+"
+        },
+        {
+            "Name": "Inceptive",
+            "Year": 2021,
+            "Loc": "Palo Alto, USA",
+            "Desc": "AI-designed biological software",
+            "Money": "$100M • Val ~$300M"
+        },
+        {
+            "Name": "EvolutionaryScale",
+            "Year": 2023,
+            "Loc": "New York, USA",
+            "Desc": "Language models for protein design",
+            "Money": "$142M Seed • Val ~$1B"
+        },
+        {
+            "Name": "Charco Neurotech",
+            "Year": 2019,
+            "Loc": "London, UK",
+            "Desc": "AI for Parkinson's care",
+            "Money": "$10M • Val ~$50M"
+        },
+        {
+            "Name": "Butterfly Network",
+            "Year": 2011,
+            "Loc": "Guilford, USA",
+            "Desc": "Handheld AI-powered ultrasound",
+            "Money": "$400M+ • Val ~$1B+"
+        },
+        {
+            "Name": "Healthy.io",
+            "Year": 2013,
+            "Loc": "Tel Aviv, Israel",
+            "Desc": "AI-powered urinalysis at home",
+            "Money": "$90M • Val ~$500M"
+        },
+        {
+            "Name": "Babylon Health",
+            "Year": 2013,
+            "Loc": "London, UK",
+            "Desc": "AI-driven virtual health assessments",
+            "Money": "$600M+ • Val ~$2B+"
+        },
+        {
+            "Name": "KoBold Metals",
+            "Year": 2018,
+            "Loc": "Berkeley, USA",
+            "Desc": "AI for mineral exploration (lithium, copper)",
+            "Money": "$491M (2024) • Val ~$1B+"
         }
     ]
 }
